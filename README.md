@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on [Desgen](https://github.com/awantika10/Desgen)
 
-- 🌱 I’m currently learning **React, Tensorsflow, UI/UX, ML**
+- 🌱 I’m currently learning **UI Design, UX Research, 3D Design, Graphic Design, Problem Solving**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **UI and UX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/subhasmitapradhan?tab=projects](https://github.com/subhasmitapradhan?tab=projects)
 
-- 📫 Contact me **[here](psubhasmitaradhan@gmail.com)**
+- 📫 Contact me **[here](subhasmitapradhan1002@gmail.com)**
 
 
 ## ✍ Projects I have contributed to:
