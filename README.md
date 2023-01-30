@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **UI and UX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/subhasmitapradhan?tab=projects](https://github.com/subhasmitapradhan?tab=projects)
+- 👨‍💻 All of my design projects  are available at my behance link [https://www.behance.net/subhasmpradhan1] (https://www.behance.net/subhasmpradhan1) and github projects are available at [https://github.com/subhasmitapradhan?tab=projects](https://github.com/subhasmitapradhan?tab=projects)
 
 - 📫 Contact me **[here](subhasmitapradhan1002@gmail.com)**
 
