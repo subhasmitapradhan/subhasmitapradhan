@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **UI Design, UX Research, 3D Design, Graphic Design, Problem Solving**
 
-- 👯 I’m looking to collaborate on **UI and UX**
+- 👯 I’m looking to collaborate on **UI, UX, 3D and Graphic Design**
 
-- 👨‍💻 All of my design projects  are available at my behance link [https://www.behance.net/subhasmpradhan1] (https://www.behance.net/subhasmpradhan1)
+- 👨‍💻 All of my design projects  are available at my behance link [https://www.behance.net/subhasmpradhan1]
 
 - 👨‍💻 Link to my Github projects are available at [https://github.com/subhasmitapradhan?tab=projects](https://github.com/subhasmitapradhan?tab=projects)
 
@@ -22,6 +22,8 @@
 - 👯 KURAKOO [https://github.com/purnima143/Kurakoo](https://github.com/purnima143/Kurakoo)
 
 - 👯 DOC2PEN [https://github.com/smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
+
+- 👯 DOC2PEN [https://github.com/awantika10/Desgen](https://github.com/awantika10/Desgen)
 
 
 
