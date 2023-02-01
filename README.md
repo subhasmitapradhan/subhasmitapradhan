@@ -23,7 +23,7 @@
 
 - 👯 DOC2PEN [https://github.com/smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen)
 
-- 👯 DOC2PEN [https://github.com/awantika10/Desgen](https://github.com/awantika10/Desgen)
+- 👯 DESGEN [https://github.com/awantika10/Desgen](https://github.com/awantika10/Desgen)
 
 
 
@@ -51,5 +51,6 @@
 
 ## 🤝 Connect
 
+[![Skill](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/subhasmpradhan1)
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasmita-pradhan-675456158/)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhasmmitapradhan)
